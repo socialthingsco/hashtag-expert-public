@@ -1,5 +1,5 @@
 # Open Source Libraries
-The following sets forth attribution notices for third party software that may be contained in portions of the Hashtag Genius for Instagram iOS application. We thank the open source community for all of their contributions. Without their help, this application would've taken a considerably larger amount of time to build.
+The following sets forth attribution notices for third party software that may be contained in portions of the Hashtag Expert iOS application. We thank the open source community for all of their contributions. Without their help, this application would've taken a considerably larger amount of time to build.
 
 [Alamofire](https://github.com/Alamofire/Alamofire)
 
